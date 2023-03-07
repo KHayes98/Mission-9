@@ -7,16 +7,16 @@
 
 @foreach (Book b in Model.Books)
 {
-    <h3 class="font-weight-bold">@b.Title</h3>
+    <h3 class="font-weight-bold font-color"><u>@b.Title</u></h3>
 
-    <ul>
-        <li>Author: @b.Author</li>
-        <li>Publisher: @b.Publisher</li>
-        <li>ISBN: @b.Isbn</li>
-        <li>Classification: @b.Classification</li>
-        <li>Genre: @b.Category</li>
-        <li>Page Count: @b.PageCount</li>
-        <li>Price: $@b.Price</li>
+    <ul class="list-inline">
+        <li class="list-inline-item">Author: @b.Author</li>
+        <li class="list-inline-item">Publisher: @b.Publisher</li>
+        <li class="list-inline-item">ISBN: @b.Isbn</li>
+        <li class="list-inline-item">Classification: @b.Classification</li>
+        <li class="list-inline-item">Genre: @b.Category</li>
+        <li class="list-inline-item">Page Count: @b.PageCount</li>
+        <li class="list-inline-item">Price: $@b.Price</li>
     </ul>
 
     <br />
