@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Mission_9",
+    "\\Mission_9\\Infrastructure",
     "\\Mission_9\\Views",
     "\\Mission_9\\Views\\Home"
   ],
-  "SelectedNode": "\\Mission_9\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\Mission_9\\Infrastructure\\PaginationTagHelper.cs",
   "PreviewInSolutionExplorer": false
 }

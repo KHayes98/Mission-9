@@ -1198,11 +1198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kchay\\Source\\Repos\\Mission-9\\Mission_9\\Mission_9.csproj",
+      "projectUniqueName": "C:\\Users\\kchay\\source\\repos\\Mission-9\\Mission_9\\Mission_9.csproj",
       "projectName": "Mission_9",
-      "projectPath": "C:\\Users\\kchay\\Source\\Repos\\Mission-9\\Mission_9\\Mission_9.csproj",
+      "projectPath": "C:\\Users\\kchay\\source\\repos\\Mission-9\\Mission_9\\Mission_9.csproj",
       "packagesPath": "C:\\Users\\kchay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kchay\\Source\\Repos\\Mission-9\\Mission_9\\obj\\",
+      "outputPath": "C:\\Users\\kchay\\source\\repos\\Mission-9\\Mission_9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kchay\\AppData\\Roaming\\NuGet\\NuGet.Config",
